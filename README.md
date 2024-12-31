@@ -69,7 +69,7 @@ endmodule
 
 ![WhatsApp Image 2024-12-20 at 8 40 12 AM](https://github.com/user-attachments/assets/841ab319-dda5-47e3-8f9d-f3e09adb324b)
 
-**TIMING DIGRAM FOR SISO Shift Register**
+**TIMING DIAGRAM FOR SISO Shift Register**
 
 ![WhatsApp Image 2024-12-20 at 8 40 13 AM](https://github.com/user-attachments/assets/32ecb8fb-17c2-4a0b-a68c-556ec4d94424)
 
